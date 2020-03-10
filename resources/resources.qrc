@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/open_focus.png</file>
+        <file>image/open_normal.png</file>
+        <file>image/pause_focus.png</file>
+        <file>image/pause_normal.png</file>
+        <file>image/pause1_normal.png</file>
+        <file>image/start_focus.png</file>
+        <file>image/start_normal.png</file>
+        <file>image/start1_normal.png</file>
+        <file>image/close_normal.png</file>
+        <file>image/showmaxsizebtn.png</file>
+        <file>image/showminisizebtn.png</file>
+        <file>image/shownormalbtn.png</file>
+        <file>image/stop_focus.png</file>
+        <file>image/stop_normal.png</file>
+        <file>image/stop1_normal.png</file>
+        <file>image/volume_mute.png</file>
+        <file>image/volume_normal.png</file>
+        <file>image/audio.png</file>
+        <file>image/edit_focus.png</file>
+        <file>image/edit_normal.png</file>
+        <file>image/edit1_nomal.png</file>
+        <file>image/fullscreen_focus.png</file>
+        <file>image/fullscreen_normal.png</file>
+        <file>image/fullscreen1_normal.png</file>
+        <file>image/fullscreencancel_focus.png</file>
+        <file>image/fullscreencancel_nomal.png</file>
+        <file>image/fullscreencancel1_focus.png</file>
+        <file>image/closeAll_focus.png</file>
+        <file>image/closeAll_normal.png</file>
+        <file>image/closeAll1_normal.png</file>
+        <file>image/model_focus.png</file>
+        <file>image/model_normal.png</file>
+        <file>image/model1_normal.png</file>
+        <file>image/param_focus.png</file>
+        <file>image/param_normal.png</file>
+        <file>image/param1_normal.png</file>
+        <file>image/videoLogo.png</file>
+    </qresource>
+</RCC>
